@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidMap</string>
+    <string name="Start">开始</string>
+    <string name="prompt_number">Phone Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login_in">login</string>
+    <string name="action_register">register</string>
+    <string name="Please_Enter_Phone">Please enter phone number</string>
+    <string name="Please_Enter_Password">Please enter password</string>
+    <string name="Register">注册</string>
+    <string name="title_activity_trace_reload">TraceReloadActivity</string>
+    <string name="title_activity_trace">TraceActivity</string>
+</resources>
